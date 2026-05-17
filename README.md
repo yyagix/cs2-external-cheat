@@ -223,17 +223,17 @@ YunalCore's humanized aimbot and external architecture make it suitable for all 
 
 ## 📸 Screenshots
 
-| Menu Overview | Aimbot Settings | Triggerbot Config |
+| Aimbot Settings | Triggerbot Config | Config Manager |
 |:---:|:---:|:---:|
-| ![Menu](https://yunalcore.app/img/genel.png) | ![Aimbot](https://yunalcore.app/img/aimbot1.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) |
+| ![Aimbot](https://yunalcore.app/img/aimbot1.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) | ![Config](https://yunalcore.app/img/config.png) |
 
 | ESP Overlay 1 | ESP Overlay 2 | ESP Overlay 3 |
 |:---:|:---:|:---:|
 | ![ESP](https://yunalcore.app/img/esp.png) | ![ESP2](https://yunalcore.app/img/esp2.png) | ![ESP3](https://yunalcore.app/img/esp3.png) |
 
-| Theme Customization | Config Manager |
-|:---:|:---:|
-| ![Theme Options](https://yunalcore.app/img/theme.png) | ![Config](https://yunalcore.app/img/config.png) |
+| Theme Customization |
+|:---:|
+| ![Theme Options](https://yunalcore.app/img/theme.png) |
 
 ---
 
