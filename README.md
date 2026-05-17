@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://yunalcore.app/img/esp.png" alt="YunalCore CS2 ESP Overlay Screenshot" width="720"/>
+<img src="https://yunalcore.app/img/esp.png?v=2.2" alt="YunalCore CS2 ESP Overlay Screenshot" width="720"/>
 
 <br/>
 
@@ -168,22 +168,22 @@ YunalCore operates **completely outside** the game process:
 
 ---
 
-## 💰 Pricing
+## 💰 Pricing & Plans
 
-| Plan | Duration | Price (TRY) |
-|------|----------|-------------|
-| **Starter** | 7 Days | ₺49.99 |
-| **Standard** | 30 Days | ₺149.99 |
-| **Premium** | 90 Days | ₺349.99 |
-| **Lifetime** | Unlimited | ₺2,499.99 |
+> [!TIP]
+> **🎁 1-Day Free Trial:** Create a free account on our website and get a **1-day free trial** automatically to test all premium features completely free of charge!
 
-All plans include:
+For the most up-to-date pricing, seasonal discounts, and payment methods, please visit our official website:
+
+👉 **[View Pricing and Plans on yunalcore.app](https://yunalcore.app/#pricing)**
+
+All subscription plans include:
 - ✅ 100% VAC Ban Protection
 - ✅ Account Safety Guarantee
-- ✅ Polymorphic Build (Unique .exe)
-- ✅ Auto Updates & Cloud Offsets
-- ✅ 24/7 Ticket Support
-- ✅ Cloud Weapon Configs
+- ✅ Unique Polymorphic Build (.exe)
+- ✅ Auto Updates & Cloud Offset Synchronization
+- ✅ 24/7 Premium Ticket Support
+- ✅ Cloud Weapon Config System
 
 ---
 
@@ -225,15 +225,15 @@ YunalCore's humanized aimbot and external architecture make it suitable for all 
 
 | Aimbot Settings | Triggerbot Config | Config Manager |
 |:---:|:---:|:---:|
-| ![Aimbot](https://yunalcore.app/img/aimbot1.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) | ![Config](https://yunalcore.app/img/config.png) |
+| ![Aimbot](https://yunalcore.app/img/aimbot1.png?v=2.2) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png?v=2.2) | ![Config](https://yunalcore.app/img/config.png?v=2.2) |
 
 | ESP Overlay 1 | ESP Overlay 2 | ESP Overlay 3 |
 |:---:|:---:|:---:|
-| ![ESP](https://yunalcore.app/img/esp.png) | ![ESP2](https://yunalcore.app/img/esp2.png) | ![ESP3](https://yunalcore.app/img/esp3.png) |
+| ![ESP](https://yunalcore.app/img/esp.png?v=2.2) | ![ESP2](https://yunalcore.app/img/esp2.png?v=2.2) | ![ESP3](https://yunalcore.app/img/esp3.png?v=2.2) |
 
 | Theme Customization |
 |:---:|
-| ![Theme Options](https://yunalcore.app/img/theme.png) |
+| ![Theme Options](https://yunalcore.app/img/theme.png?v=2.2) |
 
 ---
 
